@@ -1,0 +1,4 @@
+enum LeaveOptionEnum{
+  future,
+  historical
+}

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "224861025242",
+    "project_id": "iseeyou-e329d",
+    "storage_bucket": "iseeyou-e329d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:224861025242:android:a89ad4e4a8ecaa5e1e46e3",
+        "android_client_info": {
+          "package_name": "com.example.rich_out"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSNvEBXhyUTpiGQtAWzAddyNfMfOy_-LU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,4 +1,4 @@
-# rich_out
+# FlutterDemoProject with getx and dio and firebase 
 
 A new Flutter project.
 
